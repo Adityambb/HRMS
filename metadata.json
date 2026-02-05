@@ -1,0 +1,8 @@
+{
+  "name": "Copy of OmniTime HRMS",
+  "description": "A sophisticated multi-tenant HRMS focused on independent client-level time and attendance policies, branch overrides, and cross-client administrative control.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
